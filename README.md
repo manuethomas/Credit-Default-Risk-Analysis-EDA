@@ -1,6 +1,6 @@
 <img src="images/banner.png"><br><br>
 
-[***Click here to download detailed EDA Report***](https://github.com/manuethomas/Credit-Risk-Analysis-EDA/blob/main/EDA%20Report/Credit%20Risk%20Assesment%20Report.pdf)
+[***Click here to download detailed EDA Report***](https://github.com/manuethomas/Credit-Default-Risk-Analysis-EDA/blob/main/EDA%20Report/Credit%20Default%20Risk%20Assesment%20Report.pdf)
 
 ## Problem Statement
 
